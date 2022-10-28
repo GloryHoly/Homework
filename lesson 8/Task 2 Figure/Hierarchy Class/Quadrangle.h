@@ -1,5 +1,5 @@
 #include "Figure.h"
-#include "ExceptionQudrangle.h"
+#include "Exception.h"
 #pragma once
 class Quadrangle : public Figure
 {

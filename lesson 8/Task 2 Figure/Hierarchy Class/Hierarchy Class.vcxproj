@@ -128,9 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Exception.cpp" />
-    <ClCompile Include="ExceptionQudrangle.cpp" />
     <ClCompile Include="Figure.cpp" />
-    <ClCompile Include="Hierarchy Class.cpp" />
+    <ClCompile Include="HierarchyClass.cpp" />
     <ClCompile Include="Parallelogram.cpp" />
     <ClCompile Include="Quadrangle.cpp" />
     <ClCompile Include="QuadrangleRectangle.cpp" />
@@ -143,7 +142,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Exception.h" />
-    <ClInclude Include="ExceptionQudrangle.h" />
     <ClInclude Include="Figure.h" />
     <ClInclude Include="Parallelogram.h" />
     <ClInclude Include="Quadrangle.h" />

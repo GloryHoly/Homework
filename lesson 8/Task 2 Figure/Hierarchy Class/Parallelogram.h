@@ -1,5 +1,5 @@
 #include "Quadrangle.h"
-#include "ExceptionQudrangle.h"
+#include "Exception.h"
 #pragma once
 
 class Parallelogram : public Quadrangle

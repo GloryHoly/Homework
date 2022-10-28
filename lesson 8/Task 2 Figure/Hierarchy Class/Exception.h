@@ -4,7 +4,8 @@
 class MyException : public std::exception 
 {
 public:
-	const char* what() const override ;
+	MyException(const char* msg) : std::exception(msg) {};
 };
+
 
 
