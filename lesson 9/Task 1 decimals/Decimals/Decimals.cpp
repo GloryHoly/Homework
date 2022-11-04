@@ -14,8 +14,24 @@ public:
 		denominator_ = denominator;
 	}
 	double Abs() {return numerator_ / denominator_;	}
-	bool operator==(Fraction other) { return Abs() == other.Abs(); }
-	bool operator!=(Fraction other) { return !(*this == other); }
+	bool operator==(Fraction other)
+	{
+		double delta = 0.001;
+		if ((std::abs(Abs() - other.Abs())) < delta)
+		{
+			return true;
+		}
+		else { return false; }
+	}
+	bool operator!=(Fraction other) 
+	{ 
+		double delta = 0.001;
+		if ((std::abs(Abs() - other.Abs())) < delta)
+		{
+			return false;
+		}
+		else { return true; }
+	}
 	bool operator<(Fraction other) { return Abs() < other.Abs(); }
 	bool operator>(Fraction other) { return other < *this; }
 	bool operator<=(Fraction other) { return !(*this > other); }
