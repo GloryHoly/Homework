@@ -1,0 +1,13 @@
+# ninja log v5
+20	2308	6894292481249998	CMakeFiles/Figures.dir/Parallelogram.cpp.obj	727eaa993b7fc928
+27	2379	6894292481510122	CMakeFiles/Figures.dir/Quadrangle.cpp.obj	eefc44fe83f5f791
+32	2386	6894292481579933	CMakeFiles/Figures.dir/QuadrangleRectangle.cpp.obj	da42f27ace3c71f
+37	2418	6894292481530062	CMakeFiles/Figures.dir/Rhombus.cpp.obj	ab7814d6a96d46e2
+1	2444	6894292482290411	CMakeFiles/Figures.dir/Figure.cpp.obj	505103904ec8ecb8
+8	5092	6894292508608136	CMakeFiles/Figures.dir/HierarchyClass.cpp.obj	c98c2dbd44fa3310
+2364	5134	6894292509437502	CMakeFiles/Figures.dir/Square.cpp.obj	152337384c17805e
+2396	5218	6894292510077252	CMakeFiles/Figures.dir/Triangle.cpp.obj	4a680f9f576d3f33
+2424	5228	6894292510247232	CMakeFiles/Figures.dir/TriangleEquilateral.cpp.obj	1a45f7adb4eef0cd
+2379	5247	6894292510527793	CMakeFiles/Figures.dir/TriangleIsosceles.cpp.obj	51a53a4bb77bc026
+2452	5613	6894292514355860	CMakeFiles/Figures.dir/TriangleRight.cpp.obj	9ec1247f38ad6848
+5613	6125	6894292519217688	Figures.exe	20d5603722565092
