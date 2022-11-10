@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22.0)
+project(Hi)
+add_library(StatikLibrary STATIC Greeter.h Greeter.cpp)
+add_executable(HiExe HiName.cpp)
+target_link_libraries(HiExe StatikLibrary)

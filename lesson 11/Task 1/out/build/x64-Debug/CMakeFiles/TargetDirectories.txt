@@ -1,0 +1,4 @@
+C:/Users/denis/Desktop/КоДДинг/Homework/lesson 11/Task 1/out/build/x64-Debug/CMakeFiles/StatikLibrary.dir
+C:/Users/denis/Desktop/КоДДинг/Homework/lesson 11/Task 1/out/build/x64-Debug/CMakeFiles/HiExe.dir
+C:/Users/denis/Desktop/КоДДинг/Homework/lesson 11/Task 1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/denis/Desktop/КоДДинг/Homework/lesson 11/Task 1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
