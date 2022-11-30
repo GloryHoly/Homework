@@ -25,6 +25,8 @@ double GroundTransport::race()
 	if (distance / speed > time)
 	{
 		double count = finishtime / time;
+		double c = count - static_cast<int>(count);
+		if (c == 0) { count -= 1; }
 		for (int i = 1; i <= count; i++)
 		{
 			if (i == 1) { finishtime += relax1; }
