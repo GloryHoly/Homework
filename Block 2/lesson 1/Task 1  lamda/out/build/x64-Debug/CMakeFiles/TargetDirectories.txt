@@ -1,0 +1,3 @@
+C:/Users/denis/Desktop/КоДДинг/Homework/Block 2/lesson 1/Task 1  lamda/out/build/x64-Debug/CMakeFiles/lamda.dir
+C:/Users/denis/Desktop/КоДДинг/Homework/Block 2/lesson 1/Task 1  lamda/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/denis/Desktop/КоДДинг/Homework/Block 2/lesson 1/Task 1  lamda/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
